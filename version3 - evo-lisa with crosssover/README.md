@@ -1,5 +1,5 @@
 
-# Version 2 - Evo-lisa in python
+# Version 2 - Evo-lisa with crossover
 
 
 As the title says, this is again [ Roger Johansson algorithm](https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/), Evo-Lisa, with crossover added, and the result is terrible.   
