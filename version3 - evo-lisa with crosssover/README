@@ -1,1 +1,0 @@
-As the title says, this is just the Roger Johansson algorithm, Evo-Lisa, with crossover added, and the result is terrible. The crossover make the mutation algorithm oriented so slow, that the mutations doesnt even matter that much.
