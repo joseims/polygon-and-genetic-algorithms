@@ -1,0 +1,1 @@
+This is probably will be my last take for a while, i will reuse the evo-lisa struct i code, but i will take some of the mutations out. I will start with a  fixed number of polygons, will use alpha limits, and start the polygons size small. I will also set all the polygons to triangles.
